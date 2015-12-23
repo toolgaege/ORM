@@ -1,0 +1,12 @@
+{
+    "name": "tlgajans/auth",
+    "description": "Bir kullanici login mekanizmasi",
+    "authors": [
+        {
+            "name": "Tolga EGE",
+            "email": "toolgaege@gmail.com"}
+    ],
+    "require": {
+        "doctrine/orm": "*"
+    }
+} 
